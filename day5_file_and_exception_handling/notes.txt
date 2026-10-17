@@ -1,0 +1,3 @@
+Python is fun
+Files store data
+Logging helps debugging
